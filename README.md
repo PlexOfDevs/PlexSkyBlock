@@ -27,4 +27,3 @@ If you wish to request features, or notify me about an issue, please, make an is
   - [ ] Island Kick/Ban (Will be an option to disable/enable these commands).
   - [ ] Island Top (Will be multiple options for calculating top islands, when implemented it will be calculated by valuable blocks placed)
   - [ ] Island Limits (This will be customizable in the future, when first implemented, all islands will have a 100x100 area).
-- Mechanics
