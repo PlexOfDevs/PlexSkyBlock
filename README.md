@@ -1,2 +1,2 @@
 # PocketSkyBlock
-SkyBlock
+🦅 A powerful core for SkyBlock servers 
