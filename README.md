@@ -16,12 +16,12 @@ If you wish to request features, or notify me about an issue, please, make an is
 
 # Features
 - Main Features
-  - [ ] SkyBlock infinite island generation
-  - [ ] Magic SkyBlock cobblestone generator (Spawn rates of ores, and what ores spawn will soon be customizable).
-  - [ ] Island teleportation
-  - [ ] Island locking/unlocking
-  - [ ] Island Area Protection (What is protected on Player's islands will be configurable).
-  - [ ] Deep customization in config.yml (Right now only basic configuration is available).
+  - [x] SkyBlock infinite island generation
+  - [x] Magic SkyBlock cobblestone generator (Spawn rates of ores, and what ores spawn will soon be customizable).
+  - [x] Island teleportation
+  - [x] Island locking/unlocking
+  - [x] Island Area Protection (What is protected on Player's islands will be configurable).
+  - [x] Deep customization in config.yml (Right now only basic configuration is available).
   - [ ] Island Members (Will be an option to turn this on/off, or to limit amount of members per island soon).
   - [ ] Island Kick/Ban (Will be an option to disable/enable these commands).
   - [ ] Island Top (Will be multiple options for calculating top islands, when implemented it will be calculated by valuable blocks placed)
