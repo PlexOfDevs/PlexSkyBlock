@@ -1,0 +1,7 @@
+name: PocketSkyBlock
+description: A powerful core for SkyBlock servers
+author: PocketDevelopment
+website: twitter.com/PocketDevelopment
+main: PocketDev\PocketSkyBlock\SkyBlock
+version: 1.0.0
+api: 3.0.0
